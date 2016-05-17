@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		4FF44BA61CEB55B100FB82A2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		4FF44B9F1CEB551500FB82A2 = {
 			isa = PBXGroup;
 			children = (
+				4FF44BA61CEB55B100FB82A2 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
