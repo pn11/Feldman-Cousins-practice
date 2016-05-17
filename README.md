@@ -1,6 +1,6 @@
-# Practice of Feldmann-Cousins method
+# Practice of Feldman-Cousins method
 
-Feldmann-Cousins method to set confidence interval was introduced in [Phys. Rev. D 57, 3873 (1998) - Unified approach to the classical statistical analysis of small signals](http://journals.aps.org/prd/abstract/10.1103/PhysRevD.57.3873).  I want to reproduce figures on the paper for my practice.
+Feldman-Cousins method to set confidence interval was introduced in [Phys. Rev. D 57, 3873 (1998) - Unified approach to the classical statistical analysis of small signals](http://journals.aps.org/prd/abstract/10.1103/PhysRevD.57.3873).  I want to reproduce figures on the paper for my practice.
 
 ## Reference
 
