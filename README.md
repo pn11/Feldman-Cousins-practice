@@ -5,5 +5,5 @@ Feldman-Cousins method to set confidence interval was introduced in [Phys. Rev. 
 ## Reference
 
 - [Original Paper on PDD](http://journals.aps.org/prd/abstract/10.1103/PhysRevD.57.3873)
-- [Paper of arXiv](http://arxiv.org/abs/physics/9711021)
-- [信頼区間](http://oku.edu.mie-u.ac.jp/~okumura/stat/CI/)
+- [Paper on arXiv](http://arxiv.org/abs/physics/9711021)
+- [三重大奥村さんによる信頼区間の解説](http://oku.edu.mie-u.ac.jp/~okumura/stat/CI/)
