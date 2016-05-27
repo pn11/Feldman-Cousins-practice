@@ -1,3 +1,8 @@
+### ROOT ###
+# ignore ACLiC files
+*.d
+*.so
+
 ### Xcode ###
 # Created by https://www.gitignore.io/api/xcode
 #

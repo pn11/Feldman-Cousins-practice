@@ -8,6 +8,8 @@
 
 /* Begin PBXFileReference section */
 		4F124A221CF89E7200BDBCA4 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		4F124A231CF8A20300BDBCA4 /* mds */ = {isa = PBXFileReference; lastKnownFileType = folder; path = mds; sourceTree = "<group>"; };
+		4F124A241CF8A2AB00BDBCA4 /* scripts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = scripts; sourceTree = "<group>"; };
 		4FF44BA61CEB55B100FB82A2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -17,6 +19,8 @@
 			children = (
 				4FF44BA61CEB55B100FB82A2 /* README.md */,
 				4F124A221CF89E7200BDBCA4 /* .gitignore */,
+				4F124A241CF8A2AB00BDBCA4 /* scripts */,
+				4F124A231CF8A20300BDBCA4 /* mds */,
 			);
 			sourceTree = "<group>";
 		};
